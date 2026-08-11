@@ -11,5 +11,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 |---|---------|---------|------------|------|------|
 | 1 | Two Sum | Arrays & Strings | Easy | 2026-08-10 | [LeetCode](https://leetcode.com/problems/two-sum/) |
 | 2 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | 2026-08-10 | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 3 | Contains Duplicate | Arrays & Strings(Hashing INtro) | Easy | 2026-08-11 | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
 
-**Total solved:** 2
+**Total solved:** 3
