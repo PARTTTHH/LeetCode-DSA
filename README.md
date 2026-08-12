@@ -13,5 +13,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 2 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | 2026-08-10 | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 3 | Contains Duplicate | Arrays & Strings(Hashing INtro) | Easy | 2026-08-11 | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
 | 4 | Valid Anagram | Arrays & Strings | Easy | 2026-08-11 | [LeetCode](https://leetcode.com/problems/valid-anagram/) |
+| 5 | Two Sum II  | Two Pointers | Medium | 2026-08-12 | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 
-**Total solved:** 4
+**Total solved:** 5
