@@ -14,5 +14,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 3 | Contains Duplicate | Arrays & Strings(Hashing INtro) | Easy | 2026-08-11 | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
 | 4 | Valid Anagram | Arrays & Strings | Easy | 2026-08-11 | [LeetCode](https://leetcode.com/problems/valid-anagram/) |
 | 5 | Two Sum II  | Two Pointers | Medium | 2026-08-12 | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 6 | Valid Palindrome  | Two Pointers | Easy | 2026-08-13 | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
 
-**Total solved:** 5
+**Total solved:** 6
