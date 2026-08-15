@@ -17,5 +17,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 6 | Valid Palindrome  | Two Pointers | Easy | 2026-08-13 | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
 | 7 | Container With Most Water  | Two Pointers | Medium | 2026-08-14 | [LeetCode](https://leetcode.com/problems/container-with-most-water/) |
 | 8 | Move Zeros  | Two Pointers | Easy | 2026-08-14 | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
+| 9 | Maximum-Average-Subarray-I  | Sliding Window | Easy | 2026-08-15 | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) |
 
-**Total solved:** 8
+**Total solved:** 9
