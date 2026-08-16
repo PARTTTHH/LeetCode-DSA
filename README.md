@@ -18,5 +18,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 7 | Container With Most Water  | Two Pointers | Medium | 2026-08-14 | [LeetCode](https://leetcode.com/problems/container-with-most-water/) |
 | 8 | Move Zeros  | Two Pointers | Easy | 2026-08-14 | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
 | 9 | Maximum-Average-Subarray-I  | Sliding Window | Easy | 2026-08-15 | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) |
+| 10 | Longest-Substring-Without-Reapeating-Characters  | Sliding Window | Medium | 2026-08-16 | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 
-**Total solved:** 9
+**Total solved:** 10
