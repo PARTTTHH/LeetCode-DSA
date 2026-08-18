@@ -21,5 +21,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 10 | Longest-Substring-Without-Reapeating-Characters  | Sliding Window | Medium | 2026-08-16 | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 11 | Minimum-Size-Subarray-Sum  | Sliding Window | Medium | 2026-08-17 | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 12 | Square-of-a-Sorted-Array  | Two Pointers | Medium | 2026-08-18 | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) |
+| 13 | Contains-Duplicate-II  | Sliding Window | Medium | 2026-08-18 | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) |
 
-**Total solved:** 12
+**Total solved:** 13
