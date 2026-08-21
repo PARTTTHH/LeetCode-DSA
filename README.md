@@ -24,5 +24,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 13 | Contains-Duplicate-II  | Sliding Window | Medium | 2026-08-18 | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) |
 | 14 | Max-Consecutive-Once-III  | Sliding Window | Medium | 2026-08-19 | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/) |
 | 15 | 	Product of Array Except Self  | 	Arrays / Prefix-Suffix Products | Medium | 2026-08-21 | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) |
+| 16 | 	Find All Anagrams in a String  | Sliding Window (Fixed Size) + Hashing | Medium | 2026-08-21 | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
 
-**Total solved:** 15
+**Total solved:** 16
