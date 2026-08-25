@@ -27,5 +27,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 16 | 	Find All Anagrams in a String  | Sliding Window (Fixed Size) + Hashing | Medium | 2026-08-21 | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
 | 17 | Group Anagrams | Hashing | Medium | 2026-08-22 | [LeetCode](https://leetcode.com/problems/group-anagrams/) |
 | 18 | Top K Frequent Elements | Hashing | Medium | 2026-08-25 | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 19 | Ransom Note | Hashing | Easy | 2026-08-25 | [LeetCode](https://leetcode.com/problems/ransom-note/) |
 
-**Total solved:** 18
+**Total solved:** 19
