@@ -30,5 +30,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 19 | Ransom Note | Hashing | Easy | 2026-08-25 | [LeetCode](https://leetcode.com/problems/ransom-note/) |
 | 20 | Valid Parentheses | Stack | Easy | 2026-08-26 | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
 | 21 | Min Stack | Stack | Medium | 2026-08-27 | [LeetCode](https://leetcode.com/problems/min-stack/) |
+| 22 | Daily Temperatures | Stack (Monotonic Stack) | Medium | 2026-08-29 | [LeetCode](https://leetcode.com/problems/daily-temperatures/) |
 
-**Total solved:** 21
+**Total solved:** 22
