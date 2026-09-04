@@ -33,5 +33,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 22 | Daily Temperatures | Stack (Monotonic Stack) | Medium | 2026-08-29 | [LeetCode](https://leetcode.com/problems/daily-temperatures/) |
 | 23 | Reverse Linked List | Linked List | Easy | 2026-09-01 | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 | 24 | Linked List Cycle | Linked List | Easy | 2026-09-03 | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) |
+| 25 | #Sum | Two Pointers | Medium | 2026-09-04 | [LeetCode](https://leetcode.com/problems/3sum/) |
 
-**Total solved:** 24
+**Total solved:** 25
