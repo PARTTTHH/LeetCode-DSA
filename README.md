@@ -34,6 +34,7 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 23 | Reverse Linked List | Linked List | Easy | 2026-09-01 | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 | 24 | Linked List Cycle | Linked List | Easy | 2026-09-03 | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) |
 | 25 | #Sum | Two Pointers | Medium | 2026-09-04 | [LeetCode](https://leetcode.com/problems/3sum/) |
-| 26 | Middle of the Linked List | Linked-list | Medium | 2026-09-04 | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 26 | Middle of the Linked List | Linked-list | Easy | 2026-09-10 | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 27 | Merge Two Sorted Lists | Linked-list | Easy | 2026-09-10(Solved earlier, submitted late) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 
-**Total solved:** 26
+**Total solved:** 27
