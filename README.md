@@ -36,5 +36,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 25 | #Sum | Two Pointers | Medium | 2026-09-04 | [LeetCode](https://leetcode.com/problems/3sum/) |
 | 26 | Middle of the Linked List | Linked-list | Easy | 2026-09-10 | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 27 | Merge Two Sorted Lists | Linked-list | Easy | 2026-09-10(Solved earlier, submitted late) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 28 | Palindrome Linked List | Linked-list | Easy | 2026-09-13 | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) |
 
-**Total solved:** 27
+**Total solved:** 28
