@@ -37,5 +37,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 26 | Middle of the Linked List | Linked-list | Easy | 2026-09-10 | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 27 | Merge Two Sorted Lists | Linked-list | Easy | 2026-09-10(Solved earlier, submitted late) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 28 | Palindrome Linked List | Linked-list | Easy | 2026-09-13 | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) |
+| 29 | Kth Largest Elemenet in an Array | Arrays / Sorting | Medium | 2026-09-20 | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 
-**Total solved:** 28
+**Total solved:** 29
