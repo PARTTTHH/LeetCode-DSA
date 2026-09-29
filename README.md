@@ -38,5 +38,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 27 | Merge Two Sorted Lists | Linked-list | Easy | 2026-09-10(Solved earlier, submitted late) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 28 | Palindrome Linked List | Linked-list | Easy | 2026-09-13 | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) |
 | 29 | Kth Largest Elemenet in an Array | Arrays / Sorting | Medium | 2026-09-20 | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| 30 | Binary Tree Inorder Traversal | Trees (Recursion) | Easy | 2026-09-29 | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 
-**Total solved:** 29
+**Total solved:** 30
