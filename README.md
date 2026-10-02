@@ -39,5 +39,6 @@ Tracking my DSA prep for backend roles. Started: Aug 2026.
 | 28 | Palindrome Linked List | Linked-list | Easy | 2026-09-13 | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) |
 | 29 | Kth Largest Elemenet in an Array | Arrays / Sorting | Medium | 2026-09-20 | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 30 | Binary Tree Inorder Traversal | Trees (Recursion) | Easy | 2026-09-29 | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 31 | Maximum Depth of Binary Tree | Trees (Recursion) | Easy | 2026-10-02 | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
 
-**Total solved:** 30
+**Total solved:** 31
